@@ -1,6 +1,6 @@
-# Traveling-Salesman-Problem-Turkey
+# Traveling-Salesman-Problem
 
-This repository is containing the solution outputs of Traveling Salesman Problem among Turkey's cities.
+This repository is containing the solution outputs of Traveling Salesman Problem among cities.
 
 # Details
 
@@ -8,9 +8,8 @@ This project is the 3rd homework of [IE 413 Supply Chain Management](http://www.
 
 # Training
 
-```git clone https://github.com/MuhammedBuyukkinaci/Traveling-Salesman-Problem-Turkey.git```
 
-```cd ./Traveling-Salesman-Problem-Turkey```
+```cd ./Traveling-Salesman-Problem```
 
 For 15-cities including solution, run:
 
